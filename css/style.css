@@ -1,0 +1,54 @@
+.header {
+	text-align: center;
+	font-weight: normal;
+	font-family: 'Roboto Slab', serif;
+}
+.middle {
+	text-align: center;
+	font-weight: normal;
+	border-top: 5px solid rgba(220, 220, 220);
+	border-bottom: 5px solid rgba(220, 220, 220);
+}
+.middle h3{
+	font-weight: normal;
+}
+.header h1{
+	font-size: 4em;
+}
+article{
+	display: inline-block;
+	width: 290px;
+	padding: 10px;
+}
+article h2{
+	height: 20px;
+	padding-top: 10px;
+}
+footer h2{
+	display: inline-block;
+	width: 125px;
+	font-weight: normal;
+
+}
+footer h3{
+	display: inline-block;
+	width: 495px;
+	color: lightgray;
+	font-weight: normal;
+
+}
+footer{
+	text-align: center;
+	margin-top: 100px;
+
+}
+.arrow{
+	width: 20px;
+	height: 20px;
+	color: lightgray;
+
+}
+.center{
+	width: 1260px;
+	margin: 0px auto;
+}
